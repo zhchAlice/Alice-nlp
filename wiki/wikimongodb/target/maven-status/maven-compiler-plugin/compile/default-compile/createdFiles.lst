@@ -1,0 +1,5 @@
+edu/zhch/nlp/mongodb/model/WordBaseInfo.class
+edu/zhch/nlp/mongodb/dao/MongodbBaseDao.class
+edu/zhch/nlp/mongodb/model/WordBaseInfoOfOnePage.class
+edu/zhch/nlp/mongodb/dao/WordBaseInfoDao.class
+edu/zhch/nlp/mongodb/service/WordBaseInfoService.class

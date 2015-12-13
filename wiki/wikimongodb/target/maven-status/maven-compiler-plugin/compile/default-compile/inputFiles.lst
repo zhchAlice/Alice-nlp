@@ -1,0 +1,9 @@
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/dao/MongodbBaseDao.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/service/WordBaseInfoService.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/model/PageBaseInfo.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/model/OneWeightedWordOfThisPage.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/dao/PageBaseInfoDao.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/dao/WordBaseInfoDao.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/model/WordBaseInfoOfOnePage.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/model/WordBaseInfo.java
+/Users/zhangchen/Documents/workspace/wiki/wikimongodb/src/main/java/edu/zhch/nlp/mongodb/service/PageBaseInfoService.java
